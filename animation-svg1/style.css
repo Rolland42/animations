@@ -3,7 +3,7 @@ svg{
 }
 
 #vagues{
-animation: flying 2s linear infinite;
+animation: flying 4s linear infinite;
 }
 
 @keyframes flying{
@@ -29,12 +29,12 @@ animation: flying 2s linear infinite;
 }
 
 #bateau{
-    animation: flying 3s ease infinite;
+    animation: flying 4s ease infinite;
     }
     #voile{
-        animation: flying 3s ease infinite;
+        animation: flying 4s ease infinite;
         }
         #fille{
-            animation: flying 3s ease infinite;
+            animation: flying 4s ease infinite;
             }
     
